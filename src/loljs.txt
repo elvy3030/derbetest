@@ -1,0 +1,939 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is DCBD-71CC
+
+ Directory of E:\derbe_full\webUI\src
+
+04/06/2020  07:56 AM             1,871 App.js
+26/10/1985  12:45 PM               280 App.test.js
+31/05/2020  08:17 AM               753 index.js
+01/06/2020  06:58 AM               364 routes.js
+26/10/1985  12:45 PM             5,085 serviceWorker.js
+26/10/1985  12:45 PM               255 setupTests.js
+31/05/2020  08:22 AM               376 store.js
+               7 File(s)          8,984 bytes
+
+ Directory of E:\derbe_full\webUI\src\actions
+
+17/06/2020  10:18 PM             4,265 settingsAction.js
+               1 File(s)          4,265 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\bundles
+
+11/02/2020  03:25 AM           433,612 apexcharts.bundle.js
+11/02/2020  03:25 AM           337,328 c3.bundle.js
+11/02/2020  03:25 AM             9,519 counterup.bundle.js
+11/02/2020  03:25 AM           129,846 dataTables.bundle.js
+11/02/2020  03:25 AM           741,678 echarts.bundle.js
+11/02/2020  03:25 AM            51,904 flot.bundle.js
+11/02/2020  03:25 AM           264,357 fullcalendar.bundle.js
+11/02/2020  03:25 AM           490,250 jvectormap1.bundle.js
+11/02/2020  03:25 AM           233,817 jvectormap2.bundle.js
+11/02/2020  03:25 AM            10,600 knobjs.bundle.js
+11/02/2020  03:25 AM           231,289 lib.vendor.bundle.js
+11/02/2020  03:25 AM            44,241 markdown.bundle.js
+11/02/2020  03:25 AM           125,086 morris.bundle.js
+11/02/2020  03:25 AM             7,430 nestable.bundle.js
+11/02/2020  03:25 AM            44,284 selectize.bundle.js
+11/02/2020  03:25 AM            91,788 summernote.bundle.js
+11/02/2020  03:25 AM            16,698 sweetalert.bundle.js
+              17 File(s)      3,263,727 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\js
+
+11/02/2020  03:25 AM            12,640 core.js
+11/02/2020  03:26 AM             7,978 social.js
+               2 File(s)         20,618 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\js\chart
+
+11/02/2020  03:26 AM            56,375 apex.js
+11/02/2020  03:26 AM            19,387 c3.js
+11/02/2020  03:26 AM            33,634 echart.js
+11/02/2020  03:26 AM            43,158 flot.js
+11/02/2020  03:26 AM             3,045 jvectormap.js
+11/02/2020  03:26 AM             1,888 knobjs.js
+11/02/2020  03:26 AM            11,723 sparkline.js
+               7 File(s)        169,210 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\js\form
+
+11/02/2020  03:26 AM               713 dropify.js
+11/02/2020  03:26 AM             3,455 form-advanced.js
+11/02/2020  03:26 AM               558 markdown.js
+11/02/2020  03:26 AM               276 parsleyjs.js
+11/02/2020  03:26 AM             1,083 wizard.js
+               5 File(s)          6,085 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\js\map
+
+11/02/2020  03:26 AM            57,116 jquery-jvectormap-2.0.3.min.js
+11/02/2020  03:26 AM            84,115 jquery-jvectormap-de-merc.js
+11/02/2020  03:26 AM           104,262 jquery-jvectormap-world-mill.js
+11/02/2020  03:26 AM             3,281 map.js
+               4 File(s)        248,774 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\js\page
+
+11/02/2020  03:26 AM             6,307 calendar.js
+11/02/2020  03:26 AM             3,857 dialogs.js
+11/02/2020  03:26 AM             6,474 index.js
+11/02/2020  03:26 AM             3,855 job-index.js
+11/02/2020  03:26 AM             1,985 project-index.js
+11/02/2020  03:26 AM               509 sortable-nestable.js
+11/02/2020  03:26 AM               333 summernote.js
+11/02/2020  03:26 AM             4,405 sweetalert.js
+11/02/2020  03:26 AM             9,256 w-other.js
+11/02/2020  03:26 AM            28,173 w-statistics.js
+              10 File(s)         65,154 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\js\table
+
+11/02/2020  03:26 AM             7,831 datatable.js
+11/02/2020  03:26 AM               106 editable.js
+               2 File(s)          7,937 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\js\vendors
+
+11/02/2020  03:26 AM             4,445 circle-progress.min.js
+11/02/2020  03:26 AM             1,172 selectize.js
+11/02/2020  03:26 AM           103,580 selectize.min.js
+               3 File(s)        109,197 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\apexcharts
+
+11/02/2020  03:25 AM           433,992 apexcharts.min.js
+               1 File(s)        433,992 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\bootstrap\js
+
+11/02/2020  03:25 AM           222,911 bootstrap.bundle.js
+11/02/2020  03:25 AM            78,635 bootstrap.bundle.min.js
+11/02/2020  03:25 AM           131,637 bootstrap.js
+11/02/2020  03:25 AM            58,072 bootstrap.min.js
+               4 File(s)        491,255 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\bootstrap-colorpicker\js
+
+11/02/2020  03:25 AM            18,513 bootstrap-colorpicker.js
+11/02/2020  03:25 AM            18,689 bootstrap-colorpicker.min.js
+               2 File(s)         37,202 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\bootstrap-datepicker
+
+11/02/2020  03:25 AM            34,172 bootstrap-datepicker.min.js
+11/02/2020  03:25 AM           100,882 bootstrap-datetimepicker.js
+               2 File(s)        135,054 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\bootstrap-datepicker\js
+
+11/02/2020  03:25 AM            58,701 bootstrap-datepicker.js
+11/02/2020  03:25 AM            34,172 bootstrap-datepicker.min.js
+               2 File(s)         92,873 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\bootstrap-datepicker\locales
+
+11/02/2020  03:25 AM               714 bootstrap-datepicker.ar.min.js
+11/02/2020  03:25 AM               493 bootstrap-datepicker.az.min.js
+11/02/2020  03:25 AM               615 bootstrap-datepicker.bg.min.js
+11/02/2020  03:25 AM               475 bootstrap-datepicker.bs.min.js
+11/02/2020  03:25 AM               513 bootstrap-datepicker.ca.min.js
+11/02/2020  03:25 AM               513 bootstrap-datepicker.cs.min.js
+11/02/2020  03:25 AM               433 bootstrap-datepicker.cy.min.js
+11/02/2020  03:25 AM               459 bootstrap-datepicker.da.min.js
+11/02/2020  03:25 AM               517 bootstrap-datepicker.de.min.js
+11/02/2020  03:25 AM               764 bootstrap-datepicker.el.min.js
+11/02/2020  03:25 AM               517 bootstrap-datepicker.en-AU.min.js
+11/02/2020  03:25 AM               518 bootstrap-datepicker.en-GB.min.js
+11/02/2020  03:25 AM               515 bootstrap-datepicker.eo.min.js
+11/02/2020  03:25 AM               513 bootstrap-datepicker.es.min.js
+11/02/2020  03:25 AM               537 bootstrap-datepicker.et.min.js
+11/02/2020  03:25 AM               455 bootstrap-datepicker.eu.min.js
+11/02/2020  03:25 AM               670 bootstrap-datepicker.fa.min.js
+11/02/2020  03:25 AM               528 bootstrap-datepicker.fi.min.js
+11/02/2020  03:25 AM               488 bootstrap-datepicker.fo.min.js
+11/02/2020  03:25 AM               512 bootstrap-datepicker.fr-CH.min.js
+11/02/2020  03:25 AM               536 bootstrap-datepicker.fr.min.js
+11/02/2020  03:25 AM               489 bootstrap-datepicker.gl.min.js
+11/02/2020  03:25 AM               563 bootstrap-datepicker.he.min.js
+11/02/2020  03:25 AM               462 bootstrap-datepicker.hr.min.js
+11/02/2020  03:25 AM               541 bootstrap-datepicker.hu.min.js
+11/02/2020  03:25 AM               738 bootstrap-datepicker.hy.min.js
+11/02/2020  03:25 AM               453 bootstrap-datepicker.id.min.js
+11/02/2020  03:25 AM               496 bootstrap-datepicker.is.min.js
+11/02/2020  03:25 AM               506 bootstrap-datepicker.it-CH.min.js
+11/02/2020  03:25 AM               525 bootstrap-datepicker.it.min.js
+11/02/2020  03:25 AM               502 bootstrap-datepicker.ja.min.js
+11/02/2020  03:25 AM               967 bootstrap-datepicker.ka.min.js
+11/02/2020  03:25 AM             1,001 bootstrap-datepicker.kh.min.js
+11/02/2020  03:25 AM               649 bootstrap-datepicker.kk.min.js
+11/02/2020  03:25 AM               532 bootstrap-datepicker.ko.min.js
+11/02/2020  03:25 AM               443 bootstrap-datepicker.kr.min.js
+11/02/2020  03:25 AM               565 bootstrap-datepicker.lt.min.js
+11/02/2020  03:25 AM               486 bootstrap-datepicker.lv.min.js
+11/02/2020  03:25 AM               493 bootstrap-datepicker.me.min.js
+11/02/2020  03:25 AM               657 bootstrap-datepicker.mk.min.js
+11/02/2020  03:25 AM               638 bootstrap-datepicker.mn.min.js
+11/02/2020  03:25 AM               448 bootstrap-datepicker.ms.min.js
+11/02/2020  03:25 AM               462 bootstrap-datepicker.nb.min.js
+11/02/2020  03:25 AM               522 bootstrap-datepicker.nl-BE.min.js
+11/02/2020  03:25 AM               513 bootstrap-datepicker.nl.min.js
+11/02/2020  03:25 AM               492 bootstrap-datepicker.no.min.js
+11/02/2020  03:25 AM               552 bootstrap-datepicker.pl.min.js
+11/02/2020  03:25 AM               504 bootstrap-datepicker.pt-BR.min.js
+11/02/2020  03:25 AM               498 bootstrap-datepicker.pt.min.js
+11/02/2020  03:25 AM               485 bootstrap-datepicker.ro.min.js
+11/02/2020  03:25 AM               478 bootstrap-datepicker.rs-latin.min.js
+11/02/2020  03:25 AM               651 bootstrap-datepicker.rs.min.js
+11/02/2020  03:25 AM               704 bootstrap-datepicker.ru.min.js
+11/02/2020  03:25 AM               497 bootstrap-datepicker.sk.min.js
+11/02/2020  03:25 AM               443 bootstrap-datepicker.sl.min.js
+11/02/2020  03:25 AM               452 bootstrap-datepicker.sq.min.js
+11/02/2020  03:25 AM               478 bootstrap-datepicker.sr-latin.min.js
+11/02/2020  03:25 AM               651 bootstrap-datepicker.sr.min.js
+11/02/2020  03:25 AM               492 bootstrap-datepicker.sv.min.js
+11/02/2020  03:25 AM               431 bootstrap-datepicker.sw.min.js
+11/02/2020  03:25 AM               833 bootstrap-datepicker.th.min.js
+11/02/2020  03:25 AM               495 bootstrap-datepicker.tr.min.js
+11/02/2020  03:25 AM               722 bootstrap-datepicker.uk.min.js
+11/02/2020  03:25 AM               551 bootstrap-datepicker.vi.min.js
+11/02/2020  03:25 AM               593 bootstrap-datepicker.zh-CN.min.js
+11/02/2020  03:25 AM               566 bootstrap-datepicker.zh-TW.min.js
+              66 File(s)         36,504 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\bootstrap-multiselect
+
+11/02/2020  03:25 AM            18,844 bootstrap-multiselect.js
+               1 File(s)         18,844 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\bootstrap-tagsinput
+
+11/02/2020  03:25 AM             2,919 bootstrap-tagsinput-angular.js
+11/02/2020  03:25 AM             1,466 bootstrap-tagsinput-angular.min.js
+11/02/2020  03:25 AM            21,779 bootstrap-tagsinput.js
+11/02/2020  03:25 AM             9,167 bootstrap-tagsinput.min.js
+               4 File(s)         35,331 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\chartist-plugin-tooltip
+
+11/02/2020  03:25 AM             3,032 chartist-plugin-tooltip.min.js
+               1 File(s)          3,032 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\chartjs
+
+11/02/2020  03:25 AM           160,680 chart.min.js
+               1 File(s)        160,680 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\charts-c3
+
+11/02/2020  03:25 AM           186,820 c3.min.js
+11/02/2020  03:25 AM           151,725 d3.v3.min.js
+11/02/2020  03:25 AM           236,746 d3.v5.min.js
+               3 File(s)        575,291 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\counterjs
+
+11/02/2020  03:25 AM             1,067 jquery.counterup.min.js
+11/02/2020  03:25 AM            17,548 jquery.waypoints.js
+               2 File(s)         18,615 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\datatable
+
+11/02/2020  03:25 AM             4,099 dataTables.bootstrap4.min.js
+11/02/2020  03:25 AM            83,378 datatablescripts.bundle.js
+11/02/2020  03:25 AM           447,281 jquery.dataTables.js
+11/02/2020  03:25 AM            81,906 jquery.dataTables.min.js
+               4 File(s)        616,664 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\datatable\buttons
+
+11/02/2020  03:25 AM             1,394 buttons.bootstrap4.min.js
+11/02/2020  03:25 AM             2,767 buttons.colVis.min.js
+11/02/2020  03:25 AM            25,899 buttons.flash.min.js
+11/02/2020  03:25 AM            23,865 buttons.html5.min.js
+11/02/2020  03:25 AM             1,955 buttons.print.min.js
+11/02/2020  03:25 AM            17,553 dataTables.buttons.min.js
+               6 File(s)         73,433 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\datatable\fixedeader
+
+11/02/2020  03:25 AM            16,573 dataTables.fixedColumns.min.js
+11/02/2020  03:25 AM             6,730 dataTables.fixedHeader.min.js
+               2 File(s)         23,303 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\dropify\js
+
+11/02/2020  03:25 AM            17,156 dropify.js
+11/02/2020  03:25 AM            10,515 dropify.min.js
+               2 File(s)         27,671 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\echart
+
+11/02/2020  03:25 AM            17,901 echarts.js
+11/02/2020  03:25 AM           747,488 echarts.min.js
+               2 File(s)        765,389 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\editable
+
+11/02/2020  03:25 AM             3,752 ditabletable.js
+11/02/2020  03:25 AM             2,008 ditabletable.min.js
+               2 File(s)          5,760 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\flot-charts
+
+11/02/2020  03:25 AM             6,151 colorhelpers.js
+11/02/2020  03:25 AM            41,943 excanvas.js
+11/02/2020  03:25 AM            19,314 excanvas.min.js
+11/02/2020  03:25 AM             9,599 flot.canvas.js
+11/02/2020  03:25 AM             6,033 flot.categories.js
+11/02/2020  03:25 AM             5,419 flot.crosshair.js
+11/02/2020  03:25 AM            12,614 flot.errorbars.js
+11/02/2020  03:25 AM             5,257 flot.fillbetween.js
+11/02/2020  03:25 AM             7,360 flot.image.js
+11/02/2020  03:25 AM           122,971 flot.js
+11/02/2020  03:25 AM            14,216 flot.navigate.js
+11/02/2020  03:25 AM            23,809 flot.pie.js
+11/02/2020  03:25 AM             3,314 flot.resize.js
+11/02/2020  03:25 AM            13,141 flot.selection.js
+11/02/2020  03:25 AM             7,090 flot.stack.js
+11/02/2020  03:25 AM             2,505 flot.symbol.js
+11/02/2020  03:25 AM             4,480 flot.threshold.js
+11/02/2020  03:25 AM            11,768 flot.time.js
+11/02/2020  03:25 AM            52,719 flotscripts.bundle.js
+              19 File(s)        369,703 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\fullcalendar
+
+11/02/2020  03:25 AM           624,896 fullcalendar.js
+11/02/2020  03:25 AM           213,774 fullcalendar.min.js
+11/02/2020  03:25 AM           240,022 jqueryui.min.js
+11/02/2020  03:25 AM            51,679 moment.min.js
+               4 File(s)      1,130,371 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\gauge
+
+11/02/2020  03:25 AM            18,036 gauge.min.js
+               1 File(s)         18,036 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\input-mask
+
+11/02/2020  03:25 AM               171 plugin.js
+               1 File(s)            171 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\input-mask\js
+
+11/02/2020  03:25 AM             7,997 jquery.mask.min.js
+               1 File(s)          7,997 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\jquery
+
+11/02/2020  03:25 AM            11,197 core.js
+11/02/2020  03:25 AM            86,927 jquery-3.3.1.min.js
+11/02/2020  03:25 AM            88,144 jquery-3.4.1.min.js
+11/02/2020  03:25 AM           257,551 jquery.js
+11/02/2020  03:25 AM            85,578 jquery.min.js
+11/02/2020  03:25 AM           215,256 jquery.slim.js
+11/02/2020  03:25 AM            69,597 jquery.slim.min.js
+               7 File(s)        814,250 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\jquery-inputmask
+
+11/02/2020  03:25 AM            69,998 jquery.inputmask.bundle.js
+               1 File(s)         69,998 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\jquery-inputmask\inputmask
+
+11/02/2020  03:25 AM            25,013 inputmask.date.extensions.js
+11/02/2020  03:25 AM               491 inputmask.dependencyLib.jquery.js
+11/02/2020  03:25 AM             3,380 inputmask.extensions.js
+11/02/2020  03:25 AM           101,622 inputmask.js
+11/02/2020  03:25 AM            26,285 inputmask.numeric.extensions.js
+11/02/2020  03:25 AM             2,278 inputmask.phone.extensions.js
+11/02/2020  03:25 AM             7,897 inputmask.regex.extensions.js
+11/02/2020  03:25 AM             2,625 jquery.inputmask.js
+               8 File(s)        169,591 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\jquery-steps
+
+11/02/2020  03:25 AM            53,338 jquery.steps.js
+11/02/2020  03:25 AM            13,857 jquery.steps.min.js
+               2 File(s)         67,195 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\jquery-validation
+
+11/02/2020  03:25 AM            39,277 additional-methods.js
+11/02/2020  03:25 AM            47,524 jquery.validate.js
+               2 File(s)         86,801 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\jquery-validation\localization
+
+11/02/2020  03:25 AM             1,690 messages_ar.js
+11/02/2020  03:25 AM             1,934 messages_bg.js
+11/02/2020  03:25 AM             2,284 messages_bn_BD.js
+11/02/2020  03:25 AM             1,537 messages_ca.js
+11/02/2020  03:25 AM             1,440 messages_cs.js
+11/02/2020  03:25 AM             1,148 messages_da.js
+11/02/2020  03:25 AM             1,376 messages_de.js
+11/02/2020  03:25 AM             2,174 messages_el.js
+11/02/2020  03:25 AM             1,675 messages_es.js
+11/02/2020  03:25 AM             1,726 messages_es_AR.js
+11/02/2020  03:25 AM             1,692 messages_es_PE.js
+11/02/2020  03:25 AM             1,450 messages_et.js
+11/02/2020  03:25 AM             1,508 messages_eu.js
+11/02/2020  03:25 AM             1,948 messages_fa.js
+11/02/2020  03:25 AM             1,561 messages_fi.js
+11/02/2020  03:25 AM             3,296 messages_fr.js
+11/02/2020  03:25 AM             2,309 messages_ge.js
+11/02/2020  03:25 AM             1,728 messages_gl.js
+11/02/2020  03:25 AM             1,509 messages_he.js
+11/02/2020  03:25 AM             1,348 messages_hr.js
+11/02/2020  03:25 AM             1,325 messages_hu.js
+11/02/2020  03:25 AM             1,763 messages_hy_AM.js
+11/02/2020  03:25 AM             1,440 messages_id.js
+11/02/2020  03:25 AM             1,270 messages_is.js
+11/02/2020  03:25 AM             1,532 messages_it.js
+11/02/2020  03:25 AM             1,677 messages_ja.js
+11/02/2020  03:25 AM             2,645 messages_ka.js
+11/02/2020  03:25 AM             2,144 messages_kk.js
+11/02/2020  03:25 AM             1,444 messages_ko.js
+11/02/2020  03:25 AM             1,550 messages_lt.js
+11/02/2020  03:25 AM             1,511 messages_lv.js
+11/02/2020  03:25 AM             1,786 messages_mk.js
+11/02/2020  03:25 AM             1,452 messages_my.js
+11/02/2020  03:25 AM             1,957 messages_nl.js
+11/02/2020  03:25 AM             1,291 messages_no.js
+11/02/2020  03:25 AM             1,648 messages_pl.js
+11/02/2020  03:25 AM             5,682 messages_pt_BR.js
+11/02/2020  03:25 AM             1,876 messages_pt_PT.js
+11/02/2020  03:25 AM             1,639 messages_ro.js
+11/02/2020  03:25 AM             2,157 messages_ru.js
+11/02/2020  03:25 AM             1,428 messages_si.js
+11/02/2020  03:25 AM             1,165 messages_sk.js
+11/02/2020  03:25 AM             1,452 messages_sl.js
+11/02/2020  03:25 AM             1,737 messages_sr.js
+11/02/2020  03:25 AM             1,359 messages_sr_lat.js
+11/02/2020  03:25 AM             1,323 messages_sv.js
+11/02/2020  03:25 AM             2,203 messages_th.js
+11/02/2020  03:25 AM             2,056 messages_tj.js
+11/02/2020  03:25 AM             1,702 messages_tr.js
+11/02/2020  03:25 AM             2,112 messages_uk.js
+11/02/2020  03:25 AM             1,288 messages_vi.js
+11/02/2020  03:25 AM             1,330 messages_zh.js
+11/02/2020  03:25 AM             1,302 messages_zh_TW.js
+11/02/2020  03:25 AM               679 methods_de.js
+11/02/2020  03:25 AM               682 methods_es_CL.js
+11/02/2020  03:25 AM               658 methods_fi.js
+11/02/2020  03:25 AM               554 methods_nl.js
+11/02/2020  03:25 AM               545 methods_pt.js
+              58 File(s)         96,697 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\jquery.maskedinput
+
+11/02/2020  03:25 AM            10,317 jquery.maskedinput.js
+11/02/2020  03:25 AM             4,324 jquery.maskedinput.min.js
+               2 File(s)         14,641 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\jvectormap
+
+11/02/2020  03:25 AM            57,116 jvectormap-2.0.3.min.js
+11/02/2020  03:25 AM            51,928 jvectormap-au.js
+11/02/2020  03:25 AM           114,804 jvectormap-in.js
+11/02/2020  03:25 AM            62,840 jvectormap-uk.js
+11/02/2020  03:25 AM           112,067 jvectormap-us.js
+11/02/2020  03:25 AM           104,252 jvectormap-world.js
+11/02/2020  03:25 AM           375,863 jvectormap.bundle.js
+               7 File(s)        878,870 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\knobjs
+
+11/02/2020  03:25 AM            10,804 knob.min.js
+               1 File(s)         10,804 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\listjs
+
+11/02/2020  03:25 AM            47,792 list.js
+11/02/2020  03:25 AM            18,101 list.min.js
+               2 File(s)         65,893 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\maps-google
+
+11/02/2020  03:25 AM                 0 plugin.js
+               1 File(s)              0 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\markdown
+
+11/02/2020  03:25 AM            44,028 bootstrap-markdown.js
+11/02/2020  03:25 AM               687 markdown-page.js
+11/02/2020  03:25 AM               434 markdown-plugins.js
+11/02/2020  03:25 AM            50,969 markdown.js
+11/02/2020  03:25 AM            18,754 to-markdown.js
+               5 File(s)        114,872 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\metisMenu
+
+23/05/2020  01:27 AM            10,203 metisMenu.js
+               1 File(s)         10,203 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\morrisjs
+
+11/02/2020  03:25 AM            66,047 morris.js
+11/02/2020  03:25 AM            35,652 morris.min.js
+               2 File(s)        101,699 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\multi-select\js
+
+11/02/2020  03:25 AM            10,991 jquery.multi-select.js
+               1 File(s)         10,991 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\nestable
+
+11/02/2020  03:25 AM            17,600 jquery.nestable.js
+               1 File(s)         17,600 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\nouislider
+
+11/02/2020  03:25 AM            67,331 nouislider.js
+11/02/2020  03:25 AM            22,056 nouislider.min.js
+               2 File(s)         89,387 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\parsleyjs\js
+
+11/02/2020  03:25 AM            92,245 parsley.js
+11/02/2020  03:25 AM            42,556 parsley.min.js
+               2 File(s)        134,801 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\prismjs
+
+11/02/2020  03:25 AM               367 plugin.js
+               1 File(s)            367 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\prismjs\js
+
+11/02/2020  03:25 AM            41,074 prism.pack.js
+               1 File(s)         41,074 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\raphael
+
+11/02/2020  03:25 AM           304,254 raphael.js
+11/02/2020  03:25 AM            91,386 raphael.min.js
+               2 File(s)        395,640 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\sparkline
+
+11/02/2020  03:25 AM           126,817 sparkline.js
+11/02/2020  03:25 AM            62,647 sparkline.min.js
+               2 File(s)        189,464 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\summernote\dist
+
+11/02/2020  03:25 AM           168,529 summernote.js
+11/02/2020  03:25 AM           168,529 summernote.min.js
+               2 File(s)        337,058 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\summernote\dist\lang
+
+11/02/2020  03:25 AM             3,325 summernote-ar-AR.js
+11/02/2020  03:25 AM             2,371 summernote-ar-AR.min.js
+11/02/2020  03:25 AM             3,609 summernote-bg-BG.js
+11/02/2020  03:25 AM             2,705 summernote-bg-BG.min.js
+11/02/2020  03:25 AM             5,092 summernote-ca-ES.js
+11/02/2020  03:25 AM             3,605 summernote-ca-ES.min.js
+11/02/2020  03:25 AM             2,972 summernote-cs-CZ.js
+11/02/2020  03:25 AM             2,038 summernote-cs-CZ.min.js
+11/02/2020  03:25 AM             3,329 summernote-da-DK.js
+11/02/2020  03:25 AM             2,274 summernote-da-DK.min.js
+11/02/2020  03:25 AM             3,276 summernote-de-DE.js
+11/02/2020  03:25 AM             2,265 summernote-de-DE.min.js
+11/02/2020  03:25 AM             5,083 summernote-es-ES.js
+11/02/2020  03:25 AM             3,613 summernote-es-ES.min.js
+11/02/2020  03:25 AM             3,052 summernote-es-EU.js
+11/02/2020  03:25 AM             2,072 summernote-es-EU.min.js
+11/02/2020  03:25 AM             3,513 summernote-fa-IR.js
+11/02/2020  03:25 AM             2,557 summernote-fa-IR.min.js
+11/02/2020  03:25 AM             2,967 summernote-fi-FI.js
+11/02/2020  03:25 AM             2,013 summernote-fi-FI.min.js
+11/02/2020  03:25 AM             3,607 summernote-fr-FR.js
+11/02/2020  03:25 AM             2,537 summernote-fr-FR.min.js
+11/02/2020  03:25 AM             5,042 summernote-gl-ES.js
+11/02/2020  03:25 AM             3,572 summernote-gl-ES.min.js
+11/02/2020  03:25 AM             3,326 summernote-he-IL.js
+11/02/2020  03:25 AM             2,336 summernote-he-IL.min.js
+11/02/2020  03:25 AM             2,916 summernote-hr-HR.js
+11/02/2020  03:25 AM             1,962 summernote-hr-HR.min.js
+11/02/2020  03:25 AM             4,597 summernote-hu-HU.js
+11/02/2020  03:25 AM             3,264 summernote-hu-HU.min.js
+11/02/2020  03:25 AM             2,790 summernote-id-ID.js
+11/02/2020  03:25 AM             1,847 summernote-id-ID.min.js
+11/02/2020  03:25 AM             3,206 summernote-it-IT.js
+11/02/2020  03:25 AM             2,250 summernote-it-IT.min.js
+11/02/2020  03:25 AM             4,172 summernote-ja-JP.js
+11/02/2020  03:25 AM             2,852 summernote-ja-JP.min.js
+11/02/2020  03:25 AM             3,481 summernote-ko-KR.js
+11/02/2020  03:25 AM             2,411 summernote-ko-KR.min.js
+11/02/2020  03:25 AM             3,391 summernote-lt-LT.js
+11/02/2020  03:25 AM             2,408 summernote-lt-LT.min.js
+11/02/2020  03:25 AM             4,681 summernote-lt-LV.js
+11/02/2020  03:25 AM             3,386 summernote-lt-LV.min.js
+11/02/2020  03:25 AM             2,919 summernote-nb-NO.js
+11/02/2020  03:25 AM             1,965 summernote-nb-NO.min.js
+11/02/2020  03:25 AM             2,976 summernote-nl-NL.js
+11/02/2020  03:25 AM             2,022 summernote-nl-NL.min.js
+11/02/2020  03:25 AM             3,419 summernote-pl-PL.js
+11/02/2020  03:25 AM             2,377 summernote-pl-PL.min.js
+11/02/2020  03:25 AM             4,267 summernote-pt-BR.js
+11/02/2020  03:25 AM             2,958 summernote-pt-BR.min.js
+11/02/2020  03:25 AM             2,993 summernote-pt-PT.js
+11/02/2020  03:25 AM             2,050 summernote-pt-PT.min.js
+11/02/2020  03:25 AM             2,938 summernote-ro-RO.js
+11/02/2020  03:25 AM             2,015 summernote-ro-RO.min.js
+11/02/2020  03:25 AM             4,365 summernote-ru-RU.js
+11/02/2020  03:25 AM             3,323 summernote-ru-RU.min.js
+11/02/2020  03:25 AM             3,004 summernote-sk-SK.js
+11/02/2020  03:25 AM             2,072 summernote-sk-SK.min.js
+11/02/2020  03:25 AM             3,106 summernote-sl-SI.js
+11/02/2020  03:25 AM             2,130 summernote-sl-SI.min.js
+11/02/2020  03:25 AM             2,926 summernote-sr-RS-Latin.js
+11/02/2020  03:25 AM             1,972 summernote-sr-RS-Latin.min.js
+11/02/2020  03:25 AM             3,654 summernote-sr-RS.js
+11/02/2020  03:25 AM             2,700 summernote-sr-RS.min.js
+11/02/2020  03:25 AM             2,944 summernote-sv-SE.js
+11/02/2020  03:25 AM             1,990 summernote-sv-SE.min.js
+11/02/2020  03:25 AM             4,260 summernote-th-TH.js
+11/02/2020  03:25 AM             3,664 summernote-th-TH.min.js
+11/02/2020  03:25 AM             5,187 summernote-tr-TR.js
+11/02/2020  03:25 AM             3,718 summernote-tr-TR.min.js
+11/02/2020  03:25 AM             4,327 summernote-uk-UA.js
+11/02/2020  03:25 AM             3,296 summernote-uk-UA.min.js
+11/02/2020  03:25 AM             2,872 summernote-vi-VN.js
+11/02/2020  03:25 AM             1,918 summernote-vi-VN.min.js
+11/02/2020  03:25 AM             3,105 summernote-zh-CN.js
+11/02/2020  03:25 AM             2,052 summernote-zh-CN.min.js
+11/02/2020  03:25 AM             3,131 summernote-zh-TW.js
+11/02/2020  03:25 AM             2,078 summernote-zh-TW.min.js
+              78 File(s)        238,458 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\summernote\dist\plugin\databasic
+
+11/02/2020  03:25 AM             8,797 summernote-ext-databasic.js
+11/02/2020  03:25 AM             4,445 summernote-ext-databasic.min.js
+               2 File(s)         13,242 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\summernote\dist\plugin\hello
+
+11/02/2020  03:25 AM             2,630 summernote-ext-hello.js
+11/02/2020  03:25 AM               990 summernote-ext-hello.min.js
+               2 File(s)          3,620 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\summernote\dist\plugin\specialchars
+
+11/02/2020  03:25 AM            10,765 summernote-ext-specialchars.js
+11/02/2020  03:25 AM             4,289 summernote-ext-specialchars.min.js
+               2 File(s)         15,054 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\sweetalert
+
+11/02/2020  03:25 AM           121,789 sweetalert-dev.js
+11/02/2020  03:25 AM            31,077 sweetalert.min.js
+               2 File(s)        152,866 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\table-dragger
+
+11/02/2020  03:25 AM             1,582 table-dragger.js
+11/02/2020  03:25 AM            52,674 table-dragger.min.js
+               2 File(s)         54,256 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\tui-calendar\dist
+
+11/02/2020  03:25 AM           961,006 tui-calendar.js
+11/02/2020  03:25 AM           305,098 tui-calendar.min.js
+               2 File(s)      1,266,104 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\tui-calendar\js
+
+11/02/2020  03:25 AM            16,343 app.js
+11/02/2020  03:25 AM             5,146 default.js
+               2 File(s)         21,489 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\tui-calendar\js\data
+
+11/02/2020  03:25 AM             3,170 calendars.js
+11/02/2020  03:25 AM             4,645 schedules.js
+               2 File(s)          7,815 bytes
+
+ Directory of E:\derbe_full\webUI\src\assets\plugins\tui-calendar\js\theme
+
+11/02/2020  03:25 AM             4,183 dooray.js
+               1 File(s)          4,183 bytes
+
+ Directory of E:\derbe_full\webUI\src\components
+
+22/11/2022  10:25 PM            13,011 Route.js
+               1 File(s)         13,011 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\AppPages
+
+05/06/2020  05:51 AM             9,072 AppCalendar.js
+19/06/2020  01:23 AM            28,200 AppChart.js
+05/06/2020  05:51 AM            31,376 AppContact.js
+05/06/2020  05:51 AM            21,723 AppFilemanager.js
+05/06/2020  05:51 AM            86,416 AppSetting.js
+               5 File(s)        176,787 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Authentication
+
+04/06/2020  04:45 AM             1,980 404.js
+04/06/2020  04:45 AM             2,004 500.js
+22/11/2022  02:54 AM             2,651 forgotpassword.js
+22/11/2022  10:17 PM             3,466 login.js
+22/11/2022  02:54 AM             3,028 signup.js
+               5 File(s)         13,129 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Charts
+
+05/06/2020  05:51 AM             5,797 Charts.js
+04/06/2020  04:41 AM             8,198 ChartsC3.js
+04/06/2020  04:41 AM             6,714 ChartsE.js
+04/06/2020  04:41 AM             7,262 ChartsKnob.js
+04/06/2020  04:41 AM            12,317 ChartsSparkline.js
+               5 File(s)         40,288 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\common
+
+02/05/2020  10:49 PM            15,345 areachart.js
+08/05/2020  09:38 PM             1,131 barchart.js
+02/05/2020  10:17 PM            10,058 candlestick.js
+19/06/2020  01:12 AM             1,349 ckeditor.js
+02/05/2020  09:54 PM             2,397 columnchart.js
+16/06/2020  09:19 PM               587 datepicker.js
+08/05/2020  12:13 AM             1,534 donutchart.js
+06/05/2020  08:25 PM             2,360 fullcalender.js
+02/05/2020  11:53 PM             3,108 MapChart.js
+08/05/2020  12:08 AM             1,577 piechart.js
+02/05/2020  09:13 PM            11,241 sparklineschart.js
+02/05/2020  10:31 PM             2,699 stackedchart.js
+02/05/2020  10:12 PM             2,362 timelinechart.js
+              13 File(s)         55,748 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Forms
+
+05/06/2020  06:23 AM            27,296 FormAdvanced.js
+05/06/2020  06:23 AM            83,651 Forms.js
+17/06/2020  11:25 PM             6,105 FormSummernote.js
+05/06/2020  06:23 AM            11,029 FormValidation.js
+05/06/2020  06:23 AM             8,640 FormWizard.js
+               5 File(s)        136,721 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Gallery
+
+05/06/2020  05:32 AM            18,850 Gallery.js
+               1 File(s)         18,850 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\HRMS\Accounts
+
+05/06/2020  06:19 AM            49,190 Accounts.js
+               1 File(s)         49,190 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\HRMS\Activities
+
+05/06/2020  06:28 AM            10,714 Activities.js
+               1 File(s)         10,714 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\HRMS\Dashboard
+
+05/06/2020  05:58 AM            20,857 Dashboard.js
+               1 File(s)         20,857 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\HRMS\Departments
+
+05/06/2020  06:21 AM            29,442 Departments.js
+               1 File(s)         29,442 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\HRMS\Employee
+
+16/06/2020  10:15 PM            47,347 Employee.js
+               1 File(s)         47,347 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\HRMS\Events
+
+05/06/2020  05:32 AM             2,141 Events.js
+               1 File(s)          2,141 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\HRMS\Holidays
+
+05/06/2020  06:19 AM             4,131 Holidays.js
+               1 File(s)          4,131 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\HRMS\Payroll
+
+05/06/2020  06:18 AM            28,260 Payroll.js
+               1 File(s)         28,260 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\HRMS\Report
+
+05/06/2020  06:19 AM            43,597 Report.js
+               1 File(s)         43,597 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\HRMS\Users
+
+05/06/2020  06:17 AM            24,135 Users.js
+               1 File(s)         24,135 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Icons
+
+05/06/2020  06:25 AM           115,438 icons.js
+05/06/2020  06:25 AM            46,239 IconsFeather.js
+05/06/2020  06:25 AM            43,788 IconsFlags.js
+05/06/2020  06:25 AM            22,451 IconsLine.js
+05/06/2020  06:25 AM            22,661 IconsPayments.js
+               5 File(s)        250,577 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\JobPortal\Applicants
+
+05/06/2020  06:26 AM             8,765 Applicants.js
+               1 File(s)          8,765 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\JobPortal\Dashboard
+
+17/06/2020  10:05 PM            34,661 Dashboard.js
+               1 File(s)         34,661 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\JobPortal\Positions
+
+05/06/2020  06:26 AM            10,133 Positions.js
+               1 File(s)         10,133 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\JobPortal\Resumes
+
+05/06/2020  06:23 AM            46,566 Resumes.js
+               1 File(s)         46,566 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\JobPortal\Settings
+
+19/06/2020  01:16 AM            28,341 Settings.js
+               1 File(s)         28,341 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Maps
+
+05/06/2020  05:32 AM             2,008 Maps.js
+               1 File(s)          2,008 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Profile
+
+05/06/2020  05:32 AM            52,619 Profile.js
+               1 File(s)         52,619 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Project\Clients
+
+05/06/2020  06:27 AM            20,020 Clients.js
+               1 File(s)         20,020 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Project\Dashboard
+
+16/06/2020  10:19 PM            32,066 Dashboard.js
+               1 File(s)         32,066 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Project\ProjectList
+
+17/06/2020  09:35 PM            40,951 Projectlist.js
+               1 File(s)         40,951 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Project\Taskboard
+
+17/06/2020  09:53 PM            42,918 Taskboard.js
+               1 File(s)         42,918 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Project\TicketDetails
+
+17/06/2020  09:59 PM            23,617 TicketDetails.js
+               1 File(s)         23,617 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Project\TicketList
+
+05/06/2020  06:27 AM            18,311 TicketList.js
+               1 File(s)         18,311 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Project\TodoList
+
+05/06/2020  06:27 AM            12,450 TodoList.js
+               1 File(s)         12,450 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Search
+
+05/06/2020  06:28 AM            17,737 Search.js
+               1 File(s)         17,737 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Shared
+
+04/06/2020  08:07 AM             1,366 DefaultLink.js
+03/06/2020  08:29 PM             1,116 Footer.js
+31/05/2020  08:17 PM            12,031 Header.js
+27/02/2020  10:38 PM            10,568 HeaderTwo.js
+30/05/2020  03:31 AM               229 Layout.js
+22/11/2022  02:56 AM            43,883 Menu.js
+               6 File(s)         69,193 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Tables
+
+05/06/2020  05:32 AM            91,429 DataTables.js
+05/06/2020  05:32 AM            16,679 Tables.js
+17/06/2020  11:26 PM            75,574 TablesBasic.js
+05/06/2020  06:14 AM            18,985 TablesColor.js
+               4 File(s)        202,667 bytes
+
+ Directory of E:\derbe_full\webUI\src\components\Widgets
+
+05/06/2020  05:32 AM            17,398 WCard.js
+17/06/2020  11:23 PM            69,233 WData.js
+17/06/2020  11:07 PM            25,137 Widgets.js
+05/06/2020  05:32 AM            82,905 WOther.js
+17/06/2020  11:24 PM            42,362 WSocial.js
+17/06/2020  11:09 PM            25,889 WStatistics.js
+               6 File(s)        262,924 bytes
+
+ Directory of E:\derbe_full\webUI\src\layouts\components
+
+01/06/2020  06:54 AM             1,485 IncludeModals.js
+               1 File(s)          1,485 bytes
+
+ Directory of E:\derbe_full\webUI\src\layouts\components\navbars
+
+01/06/2020  06:54 AM               666 NavBar.js
+               1 File(s)            666 bytes
+
+ Directory of E:\derbe_full\webUI\src\layouts\components\navbars\Footer
+
+01/06/2020  06:54 AM               455 Footer.js
+               1 File(s)            455 bytes
+
+ Directory of E:\derbe_full\webUI\src\layouts\components\navbars\TopNavbar
+
+01/06/2020  06:54 AM             7,442 TopNavBarWithLogin.js
+01/06/2020  06:54 AM             3,599 TopNavBarWithoutLogin.js
+               2 File(s)         11,041 bytes
+
+ Directory of E:\derbe_full\webUI\src\layouts\components\sidebars
+
+01/06/2020  06:54 AM             2,447 AppInputComponent.js
+01/06/2020  06:54 AM             2,313 AppTextAreaComponent.js
+01/06/2020  06:54 AM               831 Debounce.js
+               3 File(s)          5,591 bytes
+
+ Directory of E:\derbe_full\webUI\src\layouts\components\sidebars\LeftSidebar
+
+01/06/2020  06:54 AM             3,870 LeftSidebarWithLogin.js
+01/06/2020  06:54 AM             3,061 LeftSidebarWithoutLogin.js
+               2 File(s)          6,931 bytes
+
+ Directory of E:\derbe_full\webUI\src\layouts\Main
+
+01/06/2020  06:56 AM               411 MainLayout.js
+               1 File(s)            411 bytes
+
+ Directory of E:\derbe_full\webUI\src\reducers
+
+31/05/2020  08:24 AM               125 rootReducer.js
+19/06/2020  01:20 AM             4,127 settings.js
+               2 File(s)          4,252 bytes
+
+     Total Files Listed:
+             493 File(s)     16,397,809 bytes
+               0 Dir(s)  339,844,673,536 bytes free
